@@ -1,1 +1,12 @@
-import React, { useState } from 'react';
+import React from 'react';
+
+export default function Resume() {
+    return (
+      <div>
+        <h1>Resume |</h1>
+        <p>
+        Add downloadable link here
+        </p>
+      </div>
+    );
+  }
