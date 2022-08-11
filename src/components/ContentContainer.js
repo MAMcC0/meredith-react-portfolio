@@ -20,8 +20,8 @@ export default function ContentContainer() {
     if (currentPage === 'Portfolio') {
       return <Portfolio />;
     }
-    if (currentpage === 'Resume'){
-      return <Resume />
+    if (currentPage === 'Resume'){
+      return <Resume />;
     }
     return <Contact />;
   };
