@@ -1,0 +1,98 @@
+body {
+    background-image: url('../public/Portfolio-React1.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0
+}
+
+div ul.navbar {
+    display: flex;
+    align-content: stretch;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding-bottom: .50rem;
+}
+
+div ul.navbar li {
+    padding-left: 30px;
+    padding-right: 25px;
+    padding-top: 10px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    width: 140px;
+    height: 80px;
+    
+
+
+
+}
+
+div ul.navbar li a {
+    text-decoration: none;
+    color: #7e3f27;
+    background-color: rgba(118, 60, 0, 0.35);
+    padding: 20px;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    clip-path: polygon(16.27% 39.4%, 75% 25%, 75% 62.74%, 25% 75%);
+
+}
+
+div ul.navbar li a:hover {
+    color: #ffbc59;
+}
+
+div ul.navbar li a:active {
+    color: #ffbc59;
+}
+
+#nav-deco {
+    padding: 5px;
+}
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    margin:0px;
+}
+
+p {
+    font-family: 'Amatic SC', cursive;
+    color: black;
+    margin:0px;
+
+}
+
+#page-title, #contact-deco, #port-deco, #about-deco{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 2em;
+    /* background-color: rgba(118, 60, 0, 0.55); */
+    padding-top: 70px;
+    margin-top: 115px;
+    margin-left: 400px;
+}
+
+@media(max-width: 900px){
+    #page-title{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Amatic SC', cursive;
+        font-size: 1rem;
+        background-color: rgba(118, 60, 0, 0.55);
+        padding: 20px;
+        padding-left: 7rem;
+        padding-right: 7rem;
+        clip-path: polygon(16.27% 39.4%, 75% 25%, 75% 62.74%, 25% 75%);
+    }
+}
