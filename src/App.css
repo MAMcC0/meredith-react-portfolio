@@ -69,7 +69,9 @@ p {
 
 }
 
-#page-title, #contact-deco, #port-deco, #about-deco{
+#page-title, #contact-deco,
+ #port-deco, #about-deco,
+#resume-deco{
     display: flex;
     justify-content: center;
     flex-direction: column;
