@@ -1,5 +1,5 @@
 body {
-    background-image: url('../public/Portfolio-React1.png');
+    background-image: url('./photos/Portfolio-React1.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -69,6 +69,12 @@ p {
 
 }
 
+a{
+    text-decoration: none;
+    font-size: 'Amatic SC', cursive; 
+    color:#7e3f27;
+}
+
 #page-title, #contact-deco,
  #port-deco, #about-deco,
 #resume-deco{
@@ -77,12 +83,45 @@ p {
     flex-direction: column;
     align-items: center;
     font-family: 'Amatic SC', cursive;
-    font-size: 2em;
-    /* background-color: rgba(118, 60, 0, 0.55); */
+    font-size: 1.75em;
     padding-top: 70px;
-    margin-top: 115px;
+    margin-top: 75px;
     margin-left: 400px;
 }
+
+#port-deco{
+    margin-top: 50px;
+    font-size: 1.25em;
+}
+
+#contact-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+label{
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+input {
+  
+  float: left;
+}
+
+#textarea #text-label{
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+#textarea #text-form{
+    float: left;
+}
+
 
 @media(max-width: 900px){
     #page-title{
