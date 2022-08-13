@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Navbar from './Navbar';
+import Footer from './Footer';
 import Resume from '../pages/Resume';
 import About from '../pages/AboutMe';
 import Contact from '../pages/Contact';
@@ -35,6 +36,7 @@ export default function ContentContainer() {
       
       {renderActivePage()}
 
+      <Footer />
       
     </div>
   );

@@ -1,9 +1,10 @@
 import React from 'react';
 
+
 function Navbar({ currentPage, handlePageChange }) {
     return (
-        <div>
-            <ul className='nav nav-tabs'>
+        <div id="nav-deco">
+            <ul className='nav nav-tabs navbar'>
                 <li className='nav-item'>
                     <a href="#home" onClick={() => handlePageChange('Home')}
                         className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
