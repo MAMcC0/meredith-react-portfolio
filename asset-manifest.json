@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/meredith-react-portfolio/static/css/main.ea8460d8.css",
+    "main.css": "/meredith-react-portfolio/static/css/main.4853545d.css",
     "main.js": "/meredith-react-portfolio/static/js/main.fef0e7e4.js",
-    "static/media/Portfolio-React1.png": "/meredith-react-portfolio/static/media/Portfolio-React1.639d9cba227989c92786.png",
+    "static/media/Portfolio-React-6.png": "/meredith-react-portfolio/static/media/Portfolio-React-6.99616c78d3fa6dc79350.png",
     "index.html": "/meredith-react-portfolio/index.html",
-    "main.ea8460d8.css.map": "/meredith-react-portfolio/static/css/main.ea8460d8.css.map",
+    "main.4853545d.css.map": "/meredith-react-portfolio/static/css/main.4853545d.css.map",
     "main.fef0e7e4.js.map": "/meredith-react-portfolio/static/js/main.fef0e7e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea8460d8.css",
+    "static/css/main.4853545d.css",
     "static/js/main.fef0e7e4.js"
   ]
 }
