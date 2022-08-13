@@ -6,7 +6,7 @@ export default function Portfolio() {
     return (
       <div>
 
-        <div id="port-deco">
+        <div id="port-deco" >
         <h1>Portfolio</h1>
         <p>
         lorem ipsum 
