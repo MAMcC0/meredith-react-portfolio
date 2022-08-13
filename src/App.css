@@ -75,6 +75,12 @@ a{
     color:#7e3f27;
 }
 
+a:hover{
+    text-decoration: none;
+    font-size: 'Amatic SC', cursive; 
+    color:#ffbc59;
+}
+
 #page-title, #contact-deco,
  #port-deco, #about-deco,
 #resume-deco{
