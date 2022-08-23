@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/meredith-react-portfolio/static/css/main.2b7e5375.css",
-    "main.js": "/meredith-react-portfolio/static/js/main.4f628098.js",
+    "main.css": "/meredith-react-portfolio/static/css/main.0bc308d4.css",
+    "main.js": "/meredith-react-portfolio/static/js/main.bad3ade2.js",
     "static/media/Portfolio-React-62.png": "/meredith-react-portfolio/static/media/Portfolio-React-62.ee286b02149394dc4b92.png",
     "static/media/Meredith McCollum Resume.pdf": "/meredith-react-portfolio/static/media/Meredith McCollum Resume.ded77236b6e9b11139be.pdf",
     "index.html": "/meredith-react-portfolio/index.html",
-    "main.2b7e5375.css.map": "/meredith-react-portfolio/static/css/main.2b7e5375.css.map",
-    "main.4f628098.js.map": "/meredith-react-portfolio/static/js/main.4f628098.js.map"
+    "main.0bc308d4.css.map": "/meredith-react-portfolio/static/css/main.0bc308d4.css.map",
+    "main.bad3ade2.js.map": "/meredith-react-portfolio/static/js/main.bad3ade2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b7e5375.css",
-    "static/js/main.4f628098.js"
+    "static/css/main.0bc308d4.css",
+    "static/js/main.bad3ade2.js"
   ]
 }
