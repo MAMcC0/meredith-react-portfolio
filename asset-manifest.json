@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/meredith-react-portfolio/static/css/main.0bc308d4.css",
-    "main.js": "/meredith-react-portfolio/static/js/main.bad3ade2.js",
+    "main.js": "/meredith-react-portfolio/static/js/main.0d588654.js",
     "static/media/Portfolio-React-62.png": "/meredith-react-portfolio/static/media/Portfolio-React-62.ee286b02149394dc4b92.png",
     "static/media/Meredith McCollum Resume.pdf": "/meredith-react-portfolio/static/media/Meredith McCollum Resume.ded77236b6e9b11139be.pdf",
     "index.html": "/meredith-react-portfolio/index.html",
     "main.0bc308d4.css.map": "/meredith-react-portfolio/static/css/main.0bc308d4.css.map",
-    "main.bad3ade2.js.map": "/meredith-react-portfolio/static/js/main.bad3ade2.js.map"
+    "main.0d588654.js.map": "/meredith-react-portfolio/static/js/main.0d588654.js.map"
   },
   "entrypoints": [
     "static/css/main.0bc308d4.css",
-    "static/js/main.bad3ade2.js"
+    "static/js/main.0d588654.js"
   ]
 }
